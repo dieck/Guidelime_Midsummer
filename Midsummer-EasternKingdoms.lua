@@ -43,8 +43,8 @@ Travel to Goldshire [G 43.4,62.2,75 Elwynn Forest][OC]
 [A Alliance]Accept [QA11816] & turn in [QT11816-] 
 [A Horde]Accept [QA11745] & turn in [QT11745-] 
 
-[A Horde]Travel to Stormwind, The Canals / Mage Quarter [G 49,72,75 Stormwind] (just outside The Stockades)[OC]
-[A Horde]Accept [QA9330]. Fastest way out is to die and ressurrect at the Ghost Healer.
+[A Horde]Travel to Stormwind, The Canals / Mage Quarter [G 49,72,75 Stormwind City] (just outside The Stockades)[OC]
+[A Horde]"Loot" fire and accept [QA9330]. Fastest way out is to die and ressurrect at the Ghost Healer.
 
 Travel to Lakeshire [G 25.2,59,75 Redridge Mountains][OC]
 [A Alliance]Accept [QA11822] & turn in [QT11822-] 
@@ -96,10 +96,9 @@ Travel to Flame Crest [G 62.2,29.2,75 Burning Steppes][OC]
 [A Horde]Accept [QA11749] & turn in [QT11749-] 
 
 [A Horde]Travel to Ironforge, Hall of Explorers [G 47,38,75 Ironforge][OC]
-[A Horde]Accept [QA9331]
+[A Horde]"Loot" fire and accept [QA9331]
 
-[A Horde][OC]There is a Video on Youtube: "(Classic WoW) Dun Morogh shortcut to Wetlands/Menethil Harbor
-", may save some time.
+[A Horde][OC]There is a Video on Youtube: "(Classic WoW) Dun Morogh shortcut to Wetlands/Menethil Harbor", may save some time.
 
 -- continue same way
 
@@ -140,7 +139,7 @@ Travel to Brill [G 57.1,51.9,75 Tirisfal Glades][OC]
 [A Horde]Accept [QA11862] & turn in [QT11862-] 
 
 [A Alliance]Travel to the Undercity, Ruins of Lordaeron [G 68,9,75 Undercity] (top-side, just when you come in)[OC]
-[A Alliance]Accept [QA9326]
+[A Alliance]"Loot" fire and accept [QA9326]
 
 Travel to Chillwind Camp [G 43.4,82.4,75 Western Plaguelands][OC]
 [A Alliance]Accept [QA11827] & turn in [QT11827-] 
@@ -159,7 +158,7 @@ Travel to North Sanctum [G 46.3,50.3,75 Eversong Woods][OC]
 [A Horde]Accept [QA11848] & turn in [QT11848-] 
 
 [A Alliance]Travel to Silvermoon City, Court of the Sun [G 70,43,75 Silvermoon City][OC]
-[A Alliance]Accept [QA11935]
+[A Alliance]"Loot" fire and accept [QA11935]
 
 [A Alliance]You can now hearth out to [H Dalaran][O]
 
