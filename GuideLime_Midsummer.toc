@@ -1,6 +1,6 @@
 ## Title: Guidelime_Midsummer
 ## Author: dieck
-## Version: 1.0
+## Version: 1.01
 ## Interface: 30401
 ## Dependencies: Guidelime
 

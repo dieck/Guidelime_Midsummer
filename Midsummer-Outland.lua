@@ -11,7 +11,6 @@ Guidelime.registerGuide(
 
 [OC]Please note that you will be flagged for PvP when desecrating an enemy fire.
 
-
 [OC]Now let's get started! We'll start in Shattrath and move counter-clockwise.
 
 [O]Portal to Shattrath.
@@ -21,7 +20,6 @@ Guidelime.registerGuide(
 -- | | | | | | | __| |/ _` | '_ \ / _` |
 -- | |_| | |_| | |_| | (_| | | | | (_| |
 --  \___/ \__,_|\__|_|\__,_|_| |_|\__,_|
-
 
 Travel to Stonebreaker Hold [G 51.9,43.3,75 Terokkar Forest][OC]
 [A Alliance]Accept [QA11782] & turn in [QT11782-] 

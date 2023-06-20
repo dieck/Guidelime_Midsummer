@@ -11,19 +11,20 @@ Guidelime.registerGuide(
 
 [OC]Please note that you will be flagged for PvP when desecrating a fire (or entering a enemy capital city).
 
-
 [OC]Now let's get started! We'll work our way from the North downwards.
-
-
-[A Alliance] Portal to Darnassus and fly to [F Everlook].
-[A Horde] Portal to Orgrimmar and fly to [F Everlook].
 
 --  _  __     _ _               _            
 -- | |/ /__ _| (_)_ __ ___   __| | ___  _ __ 
 -- | ' // _` | | | '_ ` _ \ / _` |/ _ \| '__|
 -- | . \ (_| | | | | | | | | (_| | (_) | |   
 -- |_|\_\__,_|_|_|_| |_| |_|\__,_|\___/|_|   
-                                          
+
+[A Alliance]Portal to Darnassus.
+[A Alliance]Travel to Dolanaar [G 55,60.2,75 Teldrassil][OC]
+[A Alliance]Accept [QA11824] & turn in [QT11824-] 
+
+[A Alliance]Fly to [F Everlook].
+[A Horde]Portal to Orgrimmar and fly to [F Everlook].
 
 Travel to Everlook [G 59.9,35.3,75 Winterspring][OC]
 [A Alliance]Accept [QA11803] & turn in [QT11803-] 
@@ -33,7 +34,7 @@ Travel to Everlook [G 62.4,35.4,75 Winterspring][OC]
 [A Alliance]Accept [QA11834] & turn in [QT11834-] 
 [A Horde]Accept [QA11763] & turn in [QT11763-] 
 
-
+[A Alliance]Fly to [F Forest Song][OC]
 Travel to Splintertree Post [G 69.9,69.2,75 Ashenvale][OC]
 [A Alliance]Accept [QA11765] & turn in [QT11765-] 
 [A Horde]Accept [QA11841] & turn in [QT11841-] 
@@ -42,11 +43,12 @@ Travel to Astranaar [G 37.6,54.6,75 Ashenvale][OC]
 [A Alliance]Accept [QA11805] & turn in [QT11805-] 
 [A Horde]Accept [QA11734] & turn in [QT11734-] 
 
+[A Alliance]Fly to [F Auberdine][OC]
 Travel to Auberdine [G 37,46,75 Darkshore][OC]
 [A Alliance]Accept [QA11811] & turn in [QT11811-] 
 [A Horde]Accept [QA11740] & turn in [QT11740-] 
 
-Travel to Blood Watch [G 55.8,67.8,75 Bloodmyst Isle][OC]
+Travel to Blood Watch [G 55.8,67.8,75 Bloodmyst Isle] (ship on western dock)[OC]
 [A Alliance]Accept [QA11809] & turn in [QT11809-] 
 [A Horde]Accept [QA11738] & turn in [QT11738-] 
 
@@ -57,8 +59,8 @@ Travel to Azure Watch [G 44.4,52.4,75 Azuremyst Isle][OC]
 [A Horde]Travel to Darnassus [G 57,92.5,75 Teldrassil][OC]
 [A Horde]"Loot" fire and accept [QA9332]
 
-Travel to Dolanaar [G 55,60.2,75 Teldrassil][OC]
-[A Alliance]Accept [QA11824] & turn in [QT11824-] 
+-- alliance did this at the beginning
+[A Horde]Travel to Dolanaar [G 55,60.2,75 Teldrassil][OC]
 [A Horde]Accept [QA11753] & turn in [QT11753-]. Recommendation: Hearth out and restart from Thunder Bluff.
 
 Travel to Sun Rock Retreat [G 50.6,60.4,75 Stonetalon Mountains][OC]
@@ -81,7 +83,6 @@ Travel to Camp Mojache [G 72.5,47.7,75 Feralas][OC]
 [A Alliance]Accept [QA11773] & turn in [QT11773-] 
 [A Horde]Accept [QA11849] & turn in [QT11849-] 
 
-
 Travel to Cenarion Hold [G 46.3,44.7,75 Silithus][OC]
 [A Alliance]Accept [QA11800] & turn in [QT11800-] 
 [A Horde]Accept [QA11836] & turn in [QT11836-] 
@@ -90,7 +91,6 @@ Travel to Cenarion Hold [G 57.4,35.2,75 Silithus][OC]
 [A Alliance]Accept [QA11831] & turn in [QT11831-] 
 [A Horde]Accept [QA11760] & turn in [QT11760-] 
 
-
 Travel to Gadgetzan [G 49.8,27.3,75 Tanaris][OC]
 [A Alliance]Accept [QA11802] & turn in [QT11802-] 
 [A Horde]Accept [QA11838] & turn in [QT11838-] 
@@ -98,7 +98,6 @@ Travel to Gadgetzan [G 49.8,27.3,75 Tanaris][OC]
 Travel to Gadgetzan [G 52.8,29.4,75 Tanaris][OC]
 [A Alliance]Accept [QA11833] & turn in [QT11833-] 
 [A Horde]Accept [QA11762] & turn in [QT11762-] 
-
 
 Travel to Freewind Post [G 42.5,52.9,75 Thousand Needles][OC]
 [A Alliance]Accept [QA11785] & turn in [QT11785-] 
@@ -110,32 +109,27 @@ Travel to Theramore [G 61.8,40.4,75 Dustwallow Marsh][OC]
 
 Travel to Brackenwall Village [G 33.2,31,75 Dustwallow Marsh][OC]
 [A Alliance]Accept [QA11771] & turn in [QT11771-] 
-[A Horde]Accept [QA11847] & turn in [QT11847-] 
-
-
+[A Horde]Accept [QA11847] & turn in [QT11847-]
 
 Travel to Razor Hill [G 52,47,75 Durotar][OC]
 [A Alliance]Accept [QA11770] & turn in [QT11770-] 
 [A Horde]Accept [QA11846] & turn in [QT11846-] 
 
-
--- Todo Orgrimmar
 [A Alliance]Travel to Orgrimmar, Valley of Wisdom [G 43,34,75 Orgrimmar][OC]
 [A Alliance]"Loot" fire and accept [QA9324]
-
 
 Travel to Crossroads [G 52.2,27.9,75 The Barrens][OC]
 [A Alliance]Accept [QA11783] & turn in [QT11783-] 
 [A Horde]Accept [QA11859] & turn in [QT11859-] 
 
-
 Travel to Bloodhoof Village [G 52.2,60.1,75 Mulgore][OC]
 [A Alliance]Accept [QA11777] & turn in [QT11777-] 
 [A Horde]Accept [QA11852] & turn in [QT11852-] 
 
-
 [A Alliance]Travel to Thunder Bluff, Spirit Rise [G 21.5,26.5,75 Thunder Bluff][OC]
 [A Alliance]"Loot" fire and accept [QA9325]
+
+[O]If you liked this guide, you can send a Thank You note to Allaister (Everlook, Alliance) ;)
 
 [O][A Alliance] At any festival master, turn in [QT9324-] # ORG
 [O][A Alliance] At any festival master, turn in [QT9325-] # TB
@@ -145,6 +139,4 @@ Travel to Bloodhoof Village [G 52.2,60.1,75 Mulgore][OC]
 [O][A Horde] At any festival master, turn in [QT9331-] # IF
 [O][A Horde] At any festival master, turn in [QT9332-] # DARN
 [O][A Horde] At any festival master, turn in [QT11933-] # EX
-
-[O]If you liked this guide, you can send a Thank You note to Allaister (Everlook, Alliance) ;)
 ]], "Midsummer Festival")

@@ -5,20 +5,16 @@ Guidelime.registerGuide(
 [NX 1-80 Midsummer Festival - Fires of Outland]
 [D Guide to Midsummer Festival Fires in the Eastern Kingdoms]
 
--- [OC]If this line is grayed out, the guide has not started due to a bug. Please mark all checkboxes above and including this item. This might happen again after a reload / new login.
+[OC]If this line is grayed out, the guide has not started due to a bug. Please mark all checkboxes above and including this item. This might happen again after a reload / new login.
 
 [OC]As I play Alliance, I might have missed some optimizations of the routes for Horde. Please suggest improvements via Curse or Github! You may of course take different routes and use this guide to see if you missed any Fires.
 
 [OC]Please note that you will be flagged for PvP when desecrating an enemy fire (or entering a enemy capital city).
 
-
 [OC]Now let's get started! We'll work our way from the South upwards.
 
-
-
-[A Alliance] Portal to Stormwind and fly to [F Booty Bay].
-[A Horde] Take a zeppelin to Grom'gol and Fly to [F Booty Bay] (or take ship from Ratchet).
-
+[A Alliance]Portal to Stormwind and fly to [F Booty Bay].
+[A Horde]Take a zeppelin to Grom'gol and Fly to [F Booty Bay] (or take ship from Ratchet).
 
 --  _____          _                    _  ___                 _                     
 -- | ____|__ _ ___| |_ ___ _ __ _ __   | |/ (_)_ __   __ _  __| | ___  _ __ ___  ___ 
@@ -71,7 +67,6 @@ Travel to Morgan's Vigil [G 80.2,62.8,75 Burning Steppes][OC]
 Travel to Flame Crest [G 62.2,29.2,75 Burning Steppes][OC]
 [A Alliance]Accept [QA11768] & turn in [QT11768-] 
 [A Horde]Accept [QA11844] & turn in [QT11844-] 
-
 
 -- Alliance: (IF), Dun Morogh, Thelsamar, Kargath, Hearth
 
@@ -145,7 +140,6 @@ Travel to Chillwind Camp [G 43.4,82.4,75 Western Plaguelands][OC]
 [A Alliance]Accept [QA11827] & turn in [QT11827-] 
 [A Horde]Accept [QA11756] & turn in [QT11756-] 
 
-
 [A Alliance]Fly to [F Zul'Aman][OC]
 [A Horde]Fly to [F Tranquillien][OC]
 Travel to Tranquillien [G 47,25.8,75 Ghostlands][OC]
@@ -162,6 +156,8 @@ Travel to North Sanctum [G 46.3,50.3,75 Eversong Woods][OC]
 
 [A Alliance]You can now hearth out to [H Dalaran][O]
 
+[O]If you liked this guide, you can send a Thank You note to Allaister (Everlook, Alliance) ;)
+
 [O][A Alliance] At any festival master, turn in [QT9324-] # ORG
 [O][A Alliance] At any festival master, turn in [QT9325-] # TB
 [O][A Alliance] At any festival master, turn in [QT9326-] # UC
@@ -170,6 +166,4 @@ Travel to North Sanctum [G 46.3,50.3,75 Eversong Woods][OC]
 [O][A Horde] At any festival master, turn in [QT9331-] # IF
 [O][A Horde] At any festival master, turn in [QT9332-] # DARN
 [O][A Horde] At any festival master, turn in [QT11933-] # EX
-
-[O]If you liked this guide, you can send a Thank You note to Allaister (Everlook, Alliance) ;)
 ]], "Midsummer Festival")
