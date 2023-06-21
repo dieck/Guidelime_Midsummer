@@ -1,11 +1,9 @@
 Guidelime.registerGuide(
 [[
 [N1-80 Midsummer Festival - Fires of Eastern Kingdoms]
-[NX 1-80 Midsummer Festival - Fires of Kalimdor] 
+[NX 1-80 Midsummer Festival - Fires of Kalimdor]
 [NX 1-80 Midsummer Festival - Fires of Outland]
 [D Guide to Midsummer Festival Fires in the Eastern Kingdoms]
-
-[OC]If this line is grayed out, the guide has not started due to a bug. Please mark all checkboxes above and including this item. This might happen again after a reload / new login.
 
 [OC]As I play Alliance, I might have missed some optimizations of the routes for Horde. Please suggest improvements via Curse or Github! You may of course take different routes and use this guide to see if you missed any Fires.
 
@@ -31,10 +29,12 @@ Travel to Wild Shore [G 33.8,73.6,75 Stranglethorn Vale][OC]
 [A Alliance]Accept [QA11832] & turn in [QT11832-] 
 [A Horde]Accept [QA11761] & turn in [QT11761-] 
 
+[A Alliance]I suggest to go back to Booty Bay and fly to [F Sentinal Hill][OC]
 Travel to Sentinel Hill [G 56,53.4,75 Westfall][OC]
 [A Alliance]Accept [QA11583] & turn in [QT11583-] 
 [A Horde]Accept [QA11757] & turn in [QT11757-] 
 
+[A Alliance]I suggest to fly to [F Stormwind City][OC]
 Travel to Goldshire [G 43.4,62.2,75 Elwynn Forest][OC]
 [A Alliance]Accept [QA11816] & turn in [QT11816-] 
 [A Horde]Accept [QA11745] & turn in [QT11745-] 
@@ -42,6 +42,7 @@ Travel to Goldshire [G 43.4,62.2,75 Elwynn Forest][OC]
 [A Horde]Travel to Stormwind, The Canals / Mage Quarter [G 49,72,75 Stormwind City] (just outside The Stockades)[OC]
 [A Horde]"Loot" fire and accept [QA9330]. Fastest way out is to die and ressurrect at the Ghost Healer.
 
+[A Alliance]I suggest to go back Stormwind and to fly to [F Lakeshire][OC]
 Travel to Lakeshire [G 25.2,59,75 Redridge Mountains][OC]
 [A Alliance]Accept [QA11822] & turn in [QT11822-] 
 [A Horde]Accept [QA11751] & turn in [QT11751-] 
@@ -50,6 +51,7 @@ Travel to Darkshire [G 73.8,54.6,75 Duskwood][OC]
 [A Alliance]Accept [QA11814] & turn in [QT11814-] 
 [A Horde]Accept [QA11743] & turn in [QT11743-]
 
+[A Alliance]I suggest to fly to [F Nethergarde Keep][OC]
 Travel to Stonard [G 46.6,46.5,75 Swamp of Sorrows][OC]
 [A Alliance]Accept [QA11781] & turn in [QT11781-] 
 [A Horde]Accept [QA11857] & turn in [QT11857-] 
@@ -58,8 +60,10 @@ Travel to Nethergarde Keep [G 43.4,62.2,75 Blasted Lands][OC]
 [A Alliance]Accept [QA11808] & turn in [QT11808-] 
 [A Horde]Accept [QA11737] & turn in [QT11737-] 
 
--- good opportunity to move to Outland Guide
+-- good opportunity to move to Outland Guide?
 
+[A Alliance]I suggest to fly to [F Morgan's Vigil]
+[A Horde]I suggest to go back to Stonard and fly to [F Flame Crest]
 Travel to Morgan's Vigil [G 80.2,62.8,75 Burning Steppes][OC]
 [A Alliance]Accept [QA11810] & turn in [QT11810-] 
 [A Horde]Accept [QA11739] & turn in [QT11739-] 
@@ -70,9 +74,11 @@ Travel to Flame Crest [G 62.2,29.2,75 Burning Steppes][OC]
 
 -- Alliance: (IF), Dun Morogh, Thelsamar, Kargath, Hearth
 
+[A Alliance]I suggest to go back to Morgan's Vigil and fly to [F Ironforge]
 [A Alliance]Travel to Kharanos [G 46.6,46.8,75 Dun Morogh][OC]
 [A Alliance]Accept [QA11813] & turn in [QT11813-] 
 
+[A Alliance]I suggest to go back to Ironforge and fly to [F Thelsamar]
 [A Alliance]Travel to Thelsamar [G 32.4,41,75 Loch Modan][OC]
 [A Alliance]Accept [QA11820] & turn in [QT11820-] 
 
@@ -81,6 +87,7 @@ Travel to Flame Crest [G 62.2,29.2,75 Burning Steppes][OC]
 
 -- Horde: Kargath, Thelsamar, Dun Morogh, IF, Hearth?
 
+[A Horde]I suggest to fly to [F Kargath]
 [A Horde]Travel to Kargath [G 4.8,49.6,75 Badlands][OC]
 [A Horde]Accept [QA11842] & turn in [QT11842-] 
 
@@ -97,10 +104,13 @@ Travel to Flame Crest [G 62.2,29.2,75 Burning Steppes][OC]
 
 -- continue same way
 
+[A Alliance]I suggest to go back to Thelsamar and fly to [F Menethil][OC]
 Travel to Menethil [G 13.4,47,75 Wetlands][OC]
 [A Alliance]Accept [QA11828] & turn in [QT11828-] 
 [A Horde]Accept [QA11757] & turn in [QT11757-] 
 
+[A Alliance]I suggest to fly to [F Refuge Point]
+[A Horde]I suggest to fly to [F Hammerfall]
 Travel to Refuge Point [G 50,44.6,75 Arathi Highlands][OC]
 [A Alliance]Accept [QA11804] & turn in [QT11804-] 
 [A Horde]Accept [QA11732] & turn in [QT11732-] 
@@ -109,6 +119,8 @@ Travel to Hammerfall [G 73.8,41.8,75 Arathi Highlands][OC]
 [A Alliance]Accept [QA11764] & turn in [QT11764-] 
 [A Horde]Accept [QA11840] & turn in [QT11840-] 
 
+[A Alliance]I suggest to go back to Refuge Point fly to [F Southshore]
+[A Horde]I suggest to fly to [F Tarren Mill]
 Travel to Southshore [G 50.4,47.6,75 Hillsbrad Foothills][OC]
 [A Alliance]Accept [QA11819] & turn in [QT11819-] 
 [A Horde]Accept [QA11748] & turn in [QT11748-] 

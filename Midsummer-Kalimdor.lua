@@ -1,10 +1,9 @@
 Guidelime.registerGuide(
 [[
 [N1-80 Midsummer Festival - Fires of Kalimdor]
-[NX 1-80 Midsummer Festival - Fires of Eastern Kingdoms] 
+[NX 1-80 Midsummer Festival - Fires of Eastern Kingdoms]
 [NX 1-80 Midsummer Festival - Fires of Outland]
 [D Guide to Midsummer Festival Fires in Kalimdor]
-[OC]If this line is grayed out, the guide has not started due to a bug. Please mark all checkboxes above and including this item. This might happen again after a reload / new login.
 
 [OC]As I play Alliance, I might have missed some optimizations of the routes for Horde. Please suggest improvements via Curse or Github! You may of course take different routes and use this guide to see if you missed any Fires.
 
@@ -21,8 +20,8 @@ Guidelime.registerGuide(
 [A Alliance]Portal to Darnassus[OC].
 [A Alliance]Travel to Dolanaar [G 55,60.2,75 Teldrassil][OC]
 [A Alliance]Accept [QA11824] & turn in [QT11824-] 
-
 [A Alliance]Fly to [F Everlook].
+
 [A Horde]Portal to Orgrimmar and fly to [F Everlook].
 
 Travel to Everlook [G 59.9,35.3,75 Winterspring][OC]

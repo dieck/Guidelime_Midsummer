@@ -5,8 +5,6 @@ Guidelime.registerGuide(
 [NX 1-80 Midsummer Festival - Fires of Kalimdor]
 [D Guide to Midsummer Festival Fires in Outland]
 
-[OC]If this line is grayed out, the guide has not started due to a bug. Please mark all checkboxes above and including this item. This might happen again after a reload / new login.
-
 [OC]As I play Alliance, I might have missed some optimizations of the routes for Horde. Please suggest improvements via Curse or Github! You may of course take different routes and use this guide to see if you missed any Fires.
 
 [OC]Please note that you will be flagged for PvP when desecrating an enemy fire.
