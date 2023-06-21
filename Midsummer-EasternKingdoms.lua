@@ -56,7 +56,7 @@ Travel to Stonard [G 46.6,46.5,75 Swamp of Sorrows][OC]
 [A Alliance]Accept [QA11781] & turn in [QT11781-] 
 [A Horde]Accept [QA11857] & turn in [QT11857-] 
 
-Travel to Nethergarde Keep [G 43.4,62.2,75 Blasted Lands][OC]
+Travel to Nethergarde Keep [G 59,17 Blasted Lands][OC]
 [A Alliance]Accept [QA11808] & turn in [QT11808-] 
 [A Horde]Accept [QA11737] & turn in [QT11737-] 
 
