@@ -11,8 +11,8 @@ Guidelime.registerGuide(
 
 [OC]Now let's get started! We'll work our way from the South upwards.
 
-[A Alliance]Portal to Stormwind and fly to [F Booty Bay][OC]
-[A Horde]Take a zeppelin to Grom'gol and Fly to [F Booty Bay] (or take ship from Ratchet)[OC]
+[A Alliance]Portal to Stormwind and fly to Booty... Scrap that. Let's use the Dark Portal as starting point! So: Portal to ANY major city and immediately take the portal to the Dark Portal![OC]
+[A Horde]Take a zeppelin to Grom'gol and Fly to Booty... Scrap that. Let's use the Dark Portal as starting point! So: Portal to ANY major city and immediately take the portal to the Dark Portal![OC]
 
 --  _____          _                    _  ___                 _                     
 -- | ____|__ _ ___| |_ ___ _ __ _ __   | |/ (_)_ __   __ _  __| | ___  _ __ ___  ___ 
@@ -21,6 +21,16 @@ Guidelime.registerGuide(
 -- |_____\__,_|___/\__\___|_|  |_| |_| |_|\_\_|_| |_|\__, |\__,_|\___/|_| |_| |_|___/
 --                                                   |___/                           
 
+Travel to Nethergarde Keep [G 59,17 Blasted Lands][OC]
+[A Alliance]Accept [QA11808] & turn in [QT11808-] 
+[A Horde]Accept [QA11737] & turn in [QT11737-] 
+
+Travel to Stonard [G 46.6,46.5,75 Swamp of Sorrows][OC]
+[A Alliance]Accept [QA11781] & turn in [QT11781-] 
+[A Horde]Accept [QA11857] & turn in [QT11857-] 
+
+[A Alliance]I suggest to go back to Nethergarde Keep and fly to [F Booty Bay][OC]
+[A Horde]I suggest to fly to [F Booty Bay][OC]
 Travel to Wild Shore [G 33.1,75.4,75 Stranglethorn Vale][OC]
 [A Alliance]Accept [QA11801] & turn in [QT11801-] 
 [A Horde]Accept [QA11837] & turn in [QT11837-] 
@@ -42,28 +52,17 @@ Travel to Goldshire [G 43.4,62.2,75 Elwynn Forest][OC]
 [A Horde]Travel to Stormwind, The Canals / Mage Quarter [G 49,72,75 Stormwind City] (just outside The Stockades)[OC]
 [A Horde]"Loot" fire and accept [QA9330]. Fastest way out is to die and ressurrect at the Ghost Healer.
 
-[A Alliance]I suggest to go back Stormwind and to fly to [F Lakeshire][OC]
-Travel to Lakeshire [G 25.2,59,75 Redridge Mountains][OC]
-[A Alliance]Accept [QA11822] & turn in [QT11822-] 
-[A Horde]Accept [QA11751] & turn in [QT11751-] 
-
+[A Alliance]I suggest to go back Stormwind and to fly to [F Darkshire][OC]
 Travel to Darkshire [G 73.8,54.6,75 Duskwood][OC]
 [A Alliance]Accept [QA11814] & turn in [QT11814-] 
 [A Horde]Accept [QA11743] & turn in [QT11743-]
 
-[A Alliance]I suggest to fly to [F Nethergarde Keep][OC]
-Travel to Stonard [G 46.6,46.5,75 Swamp of Sorrows][OC]
-[A Alliance]Accept [QA11781] & turn in [QT11781-] 
-[A Horde]Accept [QA11857] & turn in [QT11857-] 
+[A Alliance]I suggest to fly to [F Lakeshire][OC]
+Travel to Lakeshire [G 25.2,59,75 Redridge Mountains][OC]
+[A Alliance]Accept [QA11822] & turn in [QT11822-] 
+[A Horde]Accept [QA11751] & turn in [QT11751-] 
 
-Travel to Nethergarde Keep [G 59,17 Blasted Lands][OC]
-[A Alliance]Accept [QA11808] & turn in [QT11808-] 
-[A Horde]Accept [QA11737] & turn in [QT11737-] 
-
--- good opportunity to move to Outland Guide?
-
-[A Alliance]I suggest to fly to [F Morgan's Vigil]
-[A Horde]I suggest to go back to Stonard and fly to [F Flame Crest]
+[A Alliance]I suggest to fly to [F Morgan's Vigil][OC]
 Travel to Morgan's Vigil [G 80.2,62.8,75 Burning Steppes][OC]
 [A Alliance]Accept [QA11810] & turn in [QT11810-] 
 [A Horde]Accept [QA11739] & turn in [QT11739-] 
@@ -74,15 +73,16 @@ Travel to Flame Crest [G 62.2,29.2,75 Burning Steppes][OC]
 
 -- Alliance: (IF), Dun Morogh, Thelsamar, Kargath, Hearth
 
-[A Alliance]I suggest to go back to Morgan's Vigil and fly to [F Ironforge]
+[A Alliance]I suggest to go back to Morgan's Vigil and fly to [F Ironforge][OC]
 [A Alliance]Travel to Kharanos [G 46.6,46.8,75 Dun Morogh][OC]
 [A Alliance]Accept [QA11813] & turn in [QT11813-] 
 
-[A Alliance]I suggest to go back to Ironforge and fly to [F Thelsamar]
+[A Alliance]I suggest to go back to Ironforge and fly to [F Thelsamar][OC]
 [A Alliance]Travel to Thelsamar [G 32.4,41,75 Loch Modan][OC]
 [A Alliance]Accept [QA11820] & turn in [QT11820-] 
 
-[A Alliance]Travel to Kargath [G 4.8,49.6,75 Badlands][OC]
+[A IT5396]You have the Key to the Searing Gorge! Travel directly south through the tunnel and then travel to Kargath [G 4.8,49.6,75 Badlands][OC]
+[A IT5396<]Travel southeast to the Badlands, then travel to Kargath [G 4.8,49.6,75 Badlands][OC]
 [A Alliance]Accept [QA11766] & turn in [QT11766-] 
 
 -- Horde: Kargath, Thelsamar, Dun Morogh, IF, Hearth?
@@ -129,18 +129,30 @@ Travel to Tarren Mill [G 58.3,25.4,75 Hillsbrad Foothills][OC]
 [A Alliance]Accept [QA11776] & turn in [QT11776-] 
 [A Horde]Accept [QA11853] & turn in [QT11853-] 
 
-Travel to Aerie Peak [G 14.2,50.2,75 The Hinterlands][OC]
-[A Alliance]Accept [QA11826] & turn in [QT11826-] 
-[A Horde]Accept [QA11755] & turn in [QT11755-] 
 
-Travel to Revantusk Village [G 76.6,74.4,75 The Hinterlands][OC]
+-- Alliance: Aearie Peak, then Revantusk
+[A Alliance]It's faster to go back to Southshore and fly to [F Aerie Peak]
+[A Alliance]Travel to Aerie Peak [G 14.2,50.2,75 The Hinterlands][OC]
+[A Alliance]Accept [QA11826] & turn in [QT11826-] 
+
+[A Alliance]Travel to Revantusk Village [G 76.6,74.4,75 The Hinterlands][OC]
 [A Alliance]Accept [QA11784] & turn in [QT11784-] 
+[A Alliance]If your Hearthstone is up, you could save some traveling and fly from IF to Southshore... But it might not be up in Silvermoon later.
+
+-- Horde: Revantusk, than Aerie Peak
+[A Horde]Travel to Revantusk Village [G 76.6,74.4,75 The Hinterlands][OC]
 [A Horde]Accept [QA11860] & turn in [QT11860-] 
 
+[A Horde]Travel to Aerie Peak [G 14.2,50.2,75 The Hinterlands][OC]
+[A Horde]Accept [QA11755] & turn in [QT11755-] 
+
+-- and again the same for both:
+[A Horde]I assume from Aerie Peak it's faster to ride to Tarren Mill than to Revantusk, and fly to [F The Sepulcher]
 Travel to The Sepulcher [G 49.6,38.7,75 Silverpine Forest][OC]
 [A Alliance]Accept [QA11580] & turn in [QT11580-] 
 [A Horde]Accept [QA11857] & turn in [QT11857-] 
 
+[A Horde]I suggest to fly to [F Undercity]
 Travel to Brill [G 57.1,51.9,75 Tirisfal Glades][OC]
 [A Alliance]Accept [QA11786] & turn in [QT11786-] 
 [A Horde]Accept [QA11862] & turn in [QT11862-] 
