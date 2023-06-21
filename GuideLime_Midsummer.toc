@@ -1,7 +1,7 @@
 ## Title: Guidelime_Midsummer
 ## Author: dieck
-## Version: 1.01
-## Interface: 30401
+## Version: 1.02
+## Interface: 30402
 ## Dependencies: Guidelime
 
 Midsummer-EasternKingdoms.lua

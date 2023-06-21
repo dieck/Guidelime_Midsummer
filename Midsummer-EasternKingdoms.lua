@@ -13,8 +13,8 @@ Guidelime.registerGuide(
 
 [OC]Now let's get started! We'll work our way from the South upwards.
 
-[A Alliance]Portal to Stormwind and fly to [F Booty Bay].
-[A Horde]Take a zeppelin to Grom'gol and Fly to [F Booty Bay] (or take ship from Ratchet).
+[A Alliance]Portal to Stormwind and fly to [F Booty Bay][OC]
+[A Horde]Take a zeppelin to Grom'gol and Fly to [F Booty Bay] (or take ship from Ratchet)[OC]
 
 --  _____          _                    _  ___                 _                     
 -- | ____|__ _ ___| |_ ___ _ __ _ __   | |/ (_)_ __   __ _  __| | ___  _ __ ___  ___ 
@@ -158,12 +158,12 @@ Travel to North Sanctum [G 46.3,50.3,75 Eversong Woods][OC]
 
 [O]If you liked this guide, you can send a Thank You note to Allaister (Everlook, Alliance) ;)
 
-[O][A Alliance] At any festival master, turn in [QT9324-] # ORG
-[O][A Alliance] At any festival master, turn in [QT9325-] # TB
-[O][A Alliance] At any festival master, turn in [QT9326-] # UC
-[O][A Alliance] At any festival master, turn in [QT11935-] # SMC
-[O][A Horde] At any festival master, turn in [QT9330-] # SW
-[O][A Horde] At any festival master, turn in [QT9331-] # IF
-[O][A Horde] At any festival master, turn in [QT9332-] # DARN
-[O][A Horde] At any festival master, turn in [QT11933-] # EX
+[O][A IT23179]Don't forget to accept [QA9324] turn in [QT9324-] at any city festival master. -- ORG
+[O][A IT23180]Don't forget to accept [QA9325] turn in [QT9325-] at any city festival master. -- TB
+[O][A IT23181]Don't forget to accept [QA9326] turn in [QT9326-] at any city festival master. -- UC
+[O][A IT35568]Don't forget to accept [QA11935] turn in [QT11935-] at any city festival master. -- SMC
+[O][A IT23182]Don't forget to accept [QA9330] turn in [QT9330-] at any city festival master. -- SW
+[O][A IT23183]Don't forget to accept [QA9331] turn in [QT9331-] at any city festival master. -- IF
+[O][A IT23184]Don't forget to accept [QA9332] turn in [QT9332-] at any city festival master. -- DARN
+[O][A IT35569]Don't forget to accept [QA11933] turn in [QT11933-] at any city festival master. -- EX
 ]], "Midsummer Festival")

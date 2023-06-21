@@ -11,9 +11,11 @@ Guidelime.registerGuide(
 
 [OC]Please note that you will be flagged for PvP when desecrating an enemy fire.
 
-[OC]Now let's get started! We'll start in Shattrath and move counter-clockwise.
+[OC]Now let's get started! We'll start in Shattrath and move counter-clockwise. If you have fast flying, just beeline it. If not, use the taxi gryphon/windriders.
 
-[O]Portal to Shattrath.
+[OC]With fast flying, this guide takes about 17min.
+
+[OC]Portal to Shattrath.
 
 --   ___        _   _                 _ 
 --  / _ \ _   _| |_| | __ _ _ __   __| |
@@ -79,13 +81,12 @@ Travel to Telaar [G 49.6,69.4,75 Nagrand][OC]
 
 [O]If you liked this guide, you can send a Thank You note to Allaister (Everlook, Alliance) ;)
 
-[O][A Alliance] Don't forget to turn in [QT9324-] at any city festival master. -- ORG
-[O][A Alliance] Don't forget to turn in [QT9325-] at any city festival master. -- TB
-[O][A Alliance] Don't forget to turn in [QT9326-] at any city festival master. -- UC
-[O][A Alliance] Don't forget to turn in [QT11935-] at any city festival master. -- SMC
-[O][A Horde] Don't forget to turn in [QT9330-] at any city festival master. -- SW
-[O][A Horde] Don't forget to turn in [QT9331-] at any city festival master. -- IF
-[O][A Horde] Don't forget to turn in [QT9332-] at any city festival master. -- DARN
-[O][A Horde] Don't forget to turn in [QT11933-] at any city festival master. -- EX
-
+[O][A IT23179]Don't forget to accept [QA9324] turn in [QT9324-] at any city festival master. -- ORG
+[O][A IT23180]Don't forget to accept [QA9325] turn in [QT9325-] at any city festival master. -- TB
+[O][A IT23181]Don't forget to accept [QA9326] turn in [QT9326-] at any city festival master. -- UC
+[O][A IT35568]Don't forget to accept [QA11935] turn in [QT11935-] at any city festival master. -- SMC
+[O][A IT23182]Don't forget to accept [QA9330] turn in [QT9330-] at any city festival master. -- SW
+[O][A IT23183]Don't forget to accept [QA9331] turn in [QT9331-] at any city festival master. -- IF
+[O][A IT23184]Don't forget to accept [QA9332] turn in [QT9332-] at any city festival master. -- DARN
+[O][A IT35569]Don't forget to accept [QA11933] turn in [QT11933-] at any city festival master. -- EX
 ]], "Midsummer Festival")

@@ -4,7 +4,6 @@ Guidelime.registerGuide(
 [NX 1-80 Midsummer Festival - Fires of Eastern Kingdoms] 
 [NX 1-80 Midsummer Festival - Fires of Outland]
 [D Guide to Midsummer Festival Fires in Kalimdor]
-
 [OC]If this line is grayed out, the guide has not started due to a bug. Please mark all checkboxes above and including this item. This might happen again after a reload / new login.
 
 [OC]As I play Alliance, I might have missed some optimizations of the routes for Horde. Please suggest improvements via Curse or Github! You may of course take different routes and use this guide to see if you missed any Fires.
@@ -19,7 +18,7 @@ Guidelime.registerGuide(
 -- | . \ (_| | | | | | | | | (_| | (_) | |   
 -- |_|\_\__,_|_|_|_| |_| |_|\__,_|\___/|_|   
 
-[A Alliance]Portal to Darnassus.
+[A Alliance]Portal to Darnassus[OC].
 [A Alliance]Travel to Dolanaar [G 55,60.2,75 Teldrassil][OC]
 [A Alliance]Accept [QA11824] & turn in [QT11824-] 
 
@@ -48,19 +47,25 @@ Travel to Auberdine [G 37,46,75 Darkshore][OC]
 [A Alliance]Accept [QA11811] & turn in [QT11811-] 
 [A Horde]Accept [QA11740] & turn in [QT11740-] 
 
-Travel to Blood Watch [G 55.8,67.8,75 Bloodmyst Isle] (ship on western dock)[OC]
-[A Alliance]Accept [QA11809] & turn in [QT11809-] 
-[A Horde]Accept [QA11738] & turn in [QT11738-] 
+Travel to the Exodar island [G 22,54,100 Azuremyst Isle](ship on western dock)[OC]
+
+[A Horde]Use northern Exodar entrance at [G 76,55,50 The Exodar][OC]
+[A Horde]Travel to the Exodar [G 41,25,50 The Exodar][OC]
+[A Horde]"Loot" fire and collect [CI35569].
 
 Travel to Azure Watch [G 44.4,52.4,75 Azuremyst Isle][OC]
 [A Alliance]Accept [QA11806] & turn in [QT11806-] 
 [A Horde]Accept [QA11735] & turn in [QT11735-] 
 
-[A Horde]Travel to Darnassus [G 57,92.5,75 Teldrassil][OC]
-[A Horde]"Loot" fire and accept [QA9332]
+Travel to Blood Watch [G 55.8,67.8,75 Bloodmyst Isle][OC]
+[A Alliance]Accept [QA11809] & turn in [QT11809-] 
+[A Horde]Accept [QA11738] & turn in [QT11738-] 
+
+[A Horde]Travel to Darnassus [G 57,92.5,75 Teldrassil] (ship on northern dock at Auberdine)[OC]
+[A Horde]"Loot" fire and collect [CI23184].
 
 -- alliance did this at the beginning
-[A Horde]Travel to Dolanaar [G 55,60.2,75 Teldrassil][OC]
+[A Horde]Travel to Dolanaar [G 55,60.2,75 Teldrassil] (use purple portal thing at north end of Teldrassil harbor)[OC]
 [A Horde]Accept [QA11753] & turn in [QT11753-]. Recommendation: Hearth out and restart from Thunder Bluff.
 
 Travel to Sun Rock Retreat [G 50.6,60.4,75 Stonetalon Mountains][OC]
@@ -116,7 +121,7 @@ Travel to Razor Hill [G 52,47,75 Durotar][OC]
 [A Horde]Accept [QA11846] & turn in [QT11846-] 
 
 [A Alliance]Travel to Orgrimmar, Valley of Wisdom [G 43,34,75 Orgrimmar][OC]
-[A Alliance]"Loot" fire and accept [QA9324]
+[A Alliance]"Loot" fire and collect [CI23179]
 
 Travel to Crossroads [G 52.2,27.9,75 The Barrens][OC]
 [A Alliance]Accept [QA11783] & turn in [QT11783-] 
@@ -127,16 +132,16 @@ Travel to Bloodhoof Village [G 52.2,60.1,75 Mulgore][OC]
 [A Horde]Accept [QA11852] & turn in [QT11852-] 
 
 [A Alliance]Travel to Thunder Bluff, Spirit Rise [G 21.5,26.5,75 Thunder Bluff][OC]
-[A Alliance]"Loot" fire and accept [QA9325]
+[A Alliance]"Loot" fire and collect [CI23180].
 
 [O]If you liked this guide, you can send a Thank You note to Allaister (Everlook, Alliance) ;)
 
-[O][A Alliance] At any festival master, turn in [QT9324-] # ORG
-[O][A Alliance] At any festival master, turn in [QT9325-] # TB
-[O][A Alliance] At any festival master, turn in [QT9326-] # UC
-[O][A Alliance] At any festival master, turn in [QT11935-] # SMC
-[O][A Horde] At any festival master, turn in [QT9330-] # SW
-[O][A Horde] At any festival master, turn in [QT9331-] # IF
-[O][A Horde] At any festival master, turn in [QT9332-] # DARN
-[O][A Horde] At any festival master, turn in [QT11933-] # EX
+[O][A IT23179]Don't forget to accept [QA9324] turn in [QT9324-] at any city festival master. -- ORG
+[O][A IT23180]Don't forget to accept [QA9325] turn in [QT9325-] at any city festival master. -- TB
+[O][A IT23181]Don't forget to accept [QA9326] turn in [QT9326-] at any city festival master. -- UC
+[O][A IT35568]Don't forget to accept [QA11935] turn in [QT11935-] at any city festival master. -- SMC
+[O][A IT23182]Don't forget to accept [QA9330] turn in [QT9330-] at any city festival master. -- SW
+[O][A IT23183]Don't forget to accept [QA9331] turn in [QT9331-] at any city festival master. -- IF
+[O][A IT23184]Don't forget to accept [QA9332] turn in [QT9332-] at any city festival master. -- DARN
+[O][A IT35569]Don't forget to accept [QA11933] turn in [QT11933-] at any city festival master. -- EX
 ]], "Midsummer Festival")
