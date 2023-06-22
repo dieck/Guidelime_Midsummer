@@ -39,8 +39,8 @@ Travel to Wild Shore [G 33.8,73.6,75 Stranglethorn Vale][OC]
 [A Alliance]Accept [QA11832] & turn in [QT11832-]
 [A Horde]Accept [QA11761] & turn in [QT11761-]
 
-[A Alliance]I suggest to go back to Booty Bay and fly to [F Sentinal Hill][OC]
-[A Alliance]I suggest to go back to Booty Bay and fly to [F Grom'gol], then ride north past that Zul'Gurub island[OC]
+[A Alliance]I suggest to go back to Booty Bay and fly to [F Sentinel Hill][OC]
+[A Horde]I suggest to go back to Booty Bay and fly to [F Grom'gol], then ride north past that Zul'Gurub island[OC]
 Travel to Sentinel Hill [G 56,53.4,75 Westfall][OC]
 [A Alliance]Accept [QA11583] & turn in [QT11583-]
 [A Horde]Accept [QA11757] & turn in [QT11757-]
@@ -51,7 +51,7 @@ Travel to Goldshire [G 43.4,62.2,75 Elwynn Forest][OC]
 [A Horde]Accept [QA11745] & turn in [QT11745-]
 
 [A Horde]Travel to Stormwind, The Canals / Mage Quarter [G 49,72,75 Stormwind City] (just outside The Stockades)[OC]
-[A Horde]"Loot" fire and collect [CI23182]. Fastest way out is to die and ressurrect at the Ghost Healer.
+[A Horde]"Loot" fire and collect [CI23182], then accept [QA9330]. Fastest way out is to die and ressurrect at the Ghost Healer.
 
 [A Alliance]I suggest to go back Stormwind and to fly to [F Darkshire][OC]
 Travel to Darkshire [G 73.8,54.6,75 Duskwood][OC]
@@ -82,7 +82,7 @@ Travel to Flame Crest [G 62.2,29.2,75 Burning Steppes][OC]
 [A Alliance]Travel to Thelsamar [G 32.4,41,75 Loch Modan][OC]
 [A Alliance]Accept [QA11820] & turn in [QT11820-]
 
-[A IT5396]You have the Key to the Searing Gorge! Travel directly south through the tunnel and then travel to Kargath [G 4.8,49.6,75 Badlands][OC]
+[A IT5396]You have the Key to the Searing Gorge! That means you can save... *numbercrunching*... about 7 seconds travel time! Go directly south through the tunnel and then travel to Kargath [G 4.8,49.6,75 Badlands][OC]
 [A IT5396<]Travel southeast to the Badlands, then travel to Kargath [G 4.8,49.6,75 Badlands][OC]
 [A Alliance]Accept [QA11766] & turn in [QT11766-]
 
@@ -99,7 +99,7 @@ Travel to Flame Crest [G 62.2,29.2,75 Burning Steppes][OC]
 [A Horde]Accept [QA11749] & turn in [QT11749-]
 
 [A Horde]Travel to Ironforge, Hall of Explorers [G 47,38,75 Ironforge][OC]
-[A Horde]"Loot" fire and collect [CI23183].
+[A Horde]"Loot" fire and collect [CI23183], then accept [QA9331]
 
 [A Horde][OC]There is a Video on Youtube: "(Classic WoW) Dun Morogh shortcut to Wetlands/Menethil Harbor", may save some time.
 
@@ -159,7 +159,7 @@ Travel to Brill [G 57.1,51.9,75 Tirisfal Glades][OC]
 [A Horde]Accept [QA11862] & turn in [QT11862-]
 
 [A Alliance]Travel to the Undercity, Ruins of Lordaeron [G 68,9,75 Undercity] (top-side, just when you come in)[OC]
-[A Alliance]"Loot" fire and collect [CI23181].
+[A Alliance]"Loot" fire and collect [CI23181], then accept [QA9326]
 
 Travel to Chillwind Camp [G 43.4,82.4,75 Western Plaguelands][OC]
 [A Alliance]Accept [QA11827] & turn in [QT11827-]
@@ -177,7 +177,7 @@ Travel to North Sanctum [G 46.3,50.3,75 Eversong Woods][OC]
 [A Horde]Accept [QA11848] & turn in [QT11848-]
 
 [A Alliance]Travel to Silvermoon City, Court of the Sun [G 70,43,75 Silvermoon City][OC]
-[A Alliance]"Loot" fire and collect [CI35568].
+[A Alliance]"Loot" fire and collect [CI35568], then accept [QA11935]
 
 [A Alliance]You can now hearth out to [H Dalaran][O]
 

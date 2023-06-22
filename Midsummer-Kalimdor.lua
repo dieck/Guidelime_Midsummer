@@ -52,7 +52,7 @@ Travel to the Exodar island [G 22,54,100 Azuremyst Isle](ship on western dock)[O
 
 [A Horde]Use northern Exodar entrance at [G 76,55,50 The Exodar][OC]
 [A Horde]Travel to the Exodar [G 41,25,50 The Exodar][OC]
-[A Horde]"Loot" fire and collect [CI35569].
+[A Horde]"Loot" fire and collect [CI35569], then [QA11933]
 
 Travel to Azure Watch [G 44.4,52.4,75 Azuremyst Isle][OC]
 [A Alliance]Accept [QA11806] & turn in [QT11806-]
@@ -63,7 +63,7 @@ Travel to Blood Watch [G 55.8,67.8,75 Bloodmyst Isle][OC]
 [A Horde]Accept [QA11738] & turn in [QT11738-]
 
 [A Horde]Travel to Darnassus [G 57,92.5,75 Teldrassil] (ship on northern dock at Auberdine)[OC]
-[A Horde]"Loot" fire and collect [CI23184].
+[A Horde]"Loot" fire and collect [CI23184], then [QA9332]
 
 -- alliance did this at the beginning
 [A Horde]Travel to Dolanaar [G 55,60.2,75 Teldrassil] (use purple portal thing at north end of Teldrassil harbor)[OC]
@@ -132,7 +132,7 @@ Travel to Razor Hill [G 52,47,75 Durotar][OC]
 [A Horde]Accept [QA11846] & turn in [QT11846-]
 
 [A Alliance]Travel to Orgrimmar, Valley of Wisdom [G 43,34,75 Orgrimmar]. I suggest to use the back entrance.[OC]
-[A Alliance]"Loot" fire and collect [CI23179]
+[A Alliance]"Loot" fire and collect [CI23179], then [QA9324]
 
 [A Horde]I suggest to fly to [F The Crossroads][OC]
 Travel to Crossroads [G 52.2,27.9,75 The Barrens][OC]
@@ -147,7 +147,7 @@ Travel to Bloodhoof Village [G 52.2,60.1,75 Mulgore][OC]
 [A Alliance]For Thunder Bluff, I suggest to take the northern elevator [G 53,28,50 Thunder Bluff], then go right and take the lower bridge.[OC]
 
 [A Alliance]Travel to Thunder Bluff, Spirit Rise [G 21.5,26.5,75 Thunder Bluff][OC]
-[A Alliance]"Loot" fire and collect [CI23180].
+[A Alliance]"Loot" fire and collect [CI23180], then [QA9325]
 
 [O]If you liked this guide, you can send a Thank You note to Allaister (Everlook, Alliance) ;)
 
