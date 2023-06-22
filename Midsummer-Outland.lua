@@ -11,7 +11,7 @@ Guidelime.registerGuide(
 
 [OC]Now let's get started! We'll start in Shattrath and move counter-clockwise. If you have fast flying, just beeline it. If not, use the taxi gryphon/windriders.
 
-[OC]With fast flying, this guide takes about 17min.
+[OC]With 280% flying, this guide takes about 16min.
 
 [OC]Portal to Shattrath.
 
@@ -61,13 +61,13 @@ Travel to Sylvanaar [G 41.6,65.8,75 Blade's Edge Mountains][OC]
 [A Alliance]Accept [QA11807] & turn in [QT11807-]
 [A Horde]Accept [QA11736] & turn in [QT11736-]
 
-Travel to Zabra'Jin [G 35.6,51.9,75 Zangarmarsh][OC]
-[A Alliance]Accept [QA11787] & turn in [QT11787-]
-[A Horde]Accept [QA11863] & turn in [QT11863-]
-
 Travel to Telredor [G 68.8,51.8,75 Zangarmarsh][OC]
 [A Alliance]Accept [QA11829] & turn in [QT11829-]
 [A Horde]Accept [QA11758] & turn in [QT11758-]
+
+Travel to Zabra'Jin [G 35.6,51.9,75 Zangarmarsh][OC]
+[A Alliance]Accept [QA11787] & turn in [QT11787-]
+[A Horde]Accept [QA11863] & turn in [QT11863-]
 
 Travel to Garadar [G 51.1,33.8,75 Nagrand][OC]
 [A Alliance]Accept [QA11778] & turn in [QT11778-]
