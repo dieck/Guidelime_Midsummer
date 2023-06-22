@@ -40,6 +40,7 @@ Travel to Wild Shore [G 33.8,73.6,75 Stranglethorn Vale][OC]
 [A Horde]Accept [QA11761] & turn in [QT11761-]
 
 [A Alliance]I suggest to go back to Booty Bay and fly to [F Sentinal Hill][OC]
+[A Alliance]I suggest to go back to Booty Bay and fly to [F Grom'gol], then ride north past that Zul'Gurub island[OC]
 Travel to Sentinel Hill [G 56,53.4,75 Westfall][OC]
 [A Alliance]Accept [QA11583] & turn in [QT11583-]
 [A Horde]Accept [QA11757] & turn in [QT11757-]
